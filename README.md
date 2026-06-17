@@ -26,13 +26,20 @@ Interested in Building Real-World Projects and Problem Solving
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 
 ### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
 ### Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Spring](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=spring)
+![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
@@ -52,14 +59,6 @@ Smart traffic optimization using shortest path algorithms.
 
 ###  Smart Ecommerce Management System
 Java-based product and customer management application.
-
----
-
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suchit-05&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchit-05&layout=compact)
 
 ---
 

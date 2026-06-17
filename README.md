@@ -39,38 +39,38 @@ Interested in Building Real-World Projects and Problem Solving
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 ![Eclipse](https://img.shields.io/badge/Eclipse-purple?style=for-the-badge&logo=eclipseide)
-intellij
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea)
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 Grocery Store Queue Management System
+###  Grocery Store Queue Management System
 Reduce checkout queues using mobile scanning and digital payments.
 
-### 🚦 AI Mental Health Support System
+###  AI Mental Health Support System
 Smart traffic optimization using shortest path algorithms.
 
-### 🛍️ Smart Ecommerce Management System
+###  Smart Ecommerce Management System
 Java-based product and customer management application.
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suchit-05&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 🌐 Connect With Me
-
-GitHub:
-https://github.com/YOUR_USERNAME
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchit-05&layout=compact)
 
 ---
 
-⭐ “Keep Learning. Keep Building.”
+##  Connect With Me
+
+linkedin:
+https://www.linkedin.com/in/suchit-parte-7b32ab35b/
+
+---
+
+“Keep Learning. Keep Building.”
 
 
 <!--
